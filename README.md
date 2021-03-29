@@ -18,3 +18,4 @@ The only downside is that none of the "mode" type key-value pairs may have value
 ## Using ShArgsUtils
 
 Include the header in include/ in your project and add libshargsutils.a to you linker's path, that should do the trick.
+See the wiki for a small tutorial and the API's documentation.
