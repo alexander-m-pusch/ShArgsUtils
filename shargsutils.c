@@ -64,8 +64,6 @@ char* shargutils_get_value_for_key(SHARGUTILS_ARGUMENT key) {
 		}
 	}
 
-	printf("Fired2\n");
-
 	return found;
 
 	found:
